@@ -1,0 +1,108 @@
+body {
+  margin: 0;
+  font-family: "Mulish", sans-serif;
+  background-color: dimgray;
+}
+
+.container5 {
+  position: relative;
+  width: 402px;
+  height: 874px;
+  margin: 0 auto;
+  padding: 0;
+  background-color: white;
+}
+
+h1{
+  position: absolute;
+  width: 307px;
+  height: 127px;
+  left: 29px;
+  top: 50px;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 30px;
+  color: #464646;
+}
+
+.way img{
+  box-sizing: border-box;
+  position: absolute;
+  width: 364px;
+  height: 242px;
+  left: 19px;
+  top: 195px;
+  border: 1px solid #000000;
+  border-radius: 25px;
+}
+
+p1{
+  position: absolute;
+  width: 347px;
+  height: 193px;
+  left: 27px;
+  top: 487px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #464646;
+}
+
+
+p2{
+  position: absolute;
+  width: 347px;
+  height: 193px;
+  left: 27px;
+  top: 570px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #464646;
+}
+
+.continue{
+  position: absolute;
+  width: 375px;
+  height: 55px;
+  left: 13px;
+  top: 705px;
+  background: rgba(9, 157, 255, 0.3);
+  border: 1px solid #464646;
+  border-radius: 50px;
+}
+
+.continue p3{
+  position: absolute;
+  width: 188px;
+  height: 22px;
+  left: 90px;
+  top: 17px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  color: #464646;
+}
+
+img{
+  box-sizing: border-box;
+  position: absolute;
+  width: 177px;
+  height: 177px;
+  left: 112px;
+  top: 156px;
+  border: 1px solid #000000;
+}
+
+#menu{
+  position: absolute;
+  width: 402px;
+  height: 94px;
+  left: 0px;
+  top: 0px; 
+}
